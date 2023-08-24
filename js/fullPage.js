@@ -1,6 +1,6 @@
 new fullpage("#fullpage", {
   anchors: ["inicio", "Presentacion", "Proyectos", "Contacto"],
-  scrollingSpeed: 600,
+  scrollingSpeed: 700,
   autoScrolling: true,
   easing: "easeInOutCubic",
   css3: true,
