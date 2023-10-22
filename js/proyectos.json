@@ -2,14 +2,14 @@
 {
     "nombre":"Strawmochi",
     "img":"../img/strawmochiimg.png",
-    "descripcion":"Este es un proyecto de venta de comida asiática, realizado en una única página. Incluye un carrito de compra y un modo oscuro, y ha sido desarrollado utilizando CSS y JavaScript, aprovechando la librería de animación ScrollReveal para las transiciones.",
+    "descripcion":"Proyecto de venta de comida asiática, realizado en una única página. Incluye un carrito de compra y un modo oscuro, y ha sido desarrollado utilizando CSS y JavaScript, aprovechando la librería de animación ScrollReveal para las transiciones.",
     "github":"https://github.com/RivasLucio/strawMochi",
     "deploy":"https://straw-mochi.vercel.app/"
 },
 {
     "nombre":"GameOver",
     "img":"../img/gameoverimg.png",
-    "descripcion":"e-commerce de equipos de computacion,  ",
+    "descripcion":"E-commerce de equipos de computacion, realizado con componentes reutilizables en react y con firebase para el manejo de productos y stock. ",
     "github":"https://github.com/RivasLucio/Proyecto-GameOver",
     "deploy":"https://proyecto-game-over-fyk8x22o8-rivaslucio.vercel.app/"
 },
