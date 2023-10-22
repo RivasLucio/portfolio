@@ -9,7 +9,7 @@
 {
     "nombre":"GameOver",
     "img":"../img/gameoverimg.png",
-    "descripcion":"E-commerce de equipos de computacion, realizado con componentes reutilizables en react y con firebase para el manejo de productos y stock. ",
+    "descripcion":"E-commerce de equipos de computación, realizado con componentes reutilizables en React y con Firebase para el manejo de productos y stock.",
     "github":"https://github.com/RivasLucio/Proyecto-GameOver",
     "deploy":"https://proyecto-game-over-fyk8x22o8-rivaslucio.vercel.app/"
 },
